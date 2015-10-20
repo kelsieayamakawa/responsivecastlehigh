@@ -36,3 +36,16 @@ a {
 ul {
   list-style-type: none;
 }
+
+.knight-pride {
+  background-image: url('frontpage.jpg');
+  height: 400px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+h2 {
+  font-size: 14px;
+  margin-bottom: 0px;
+}
